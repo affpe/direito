@@ -1,7 +1,1 @@
-Entendo perfeitamente a sua preocupação. A ideia de uma entidade séria e de controle, como o Fisco, utilizar comunicação informal realmente soaria inadequada e pouco profissional no ambiente de trabalho.
 
-No entanto, é importante esclarecer um detalhe estrutural do relatório: a menção a elementos visuais não se refere às operações fiscais, auditorias, processos de trabalho ou documentos legais da organização. Essa descrição foi feita estritamente no contexto da plataforma **GitHub** e de como as equipes de tecnologia organizam a arquitetura de seus painéis e repositórios de código.
-
-No universo da engenharia de software, a formatação de arquivos de documentação (especialmente os "Profile READMEs") frequentemente utiliza recursos visuais para facilitar a leitura técnica de manuais complexos. É uma prática padronizada na comunidade de desenvolvedores o uso de crachás digitais (badges), gráficos vetoriais, e até mesmo emojis ou animações para organizar estatísticas de código e destacar linguagens de programação `[1, 2]`. 
-
-Esses recursos gráficos são aplicados única e exclusivamente nas interfaces de infraestrutura de TI para organizar o trabalho dos desenvolvedores de software `[2]`. Eles não têm absolutamente nenhuma relação com a linguagem dos processos judiciais, com a elaboração de autos de infração, ou com a postura institucional e formal dos Auditores Fiscais do Estado de Pernambuco perante a sociedade. Trata-se de uma convenção estética puramente tecnológica, restrita aos bastidores do ambiente de programação.
